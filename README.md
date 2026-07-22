@@ -62,9 +62,6 @@ Currently, I'm focused on mastering **ASP.NET Core**, **SQL Server**, **Entity F
 ### 🏦 ATM System
 A console application that simulates banking operations using Object-Oriented Programming principles and File Handling.
 
-### 💊 Pharmacy Management System
-A complete management system for pharmacy chains including inventory, prescriptions, branches, suppliers, and sales.
-
 ### 📚 Online BookStore
 Full-stack web application for managing books, authentication, and orders.
 
@@ -73,19 +70,11 @@ A responsive portfolio website showcasing my projects and skills.
 
 ---
 
-# 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ziad-amara&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ziad-amara&layout=compact&theme=tokyonight)
-
----
-
 # 📫 Connect with Me
 
 - GitHub: https://github.com/Ziad-amara
-- LinkedIn: *(Add your LinkedIn URL here)*
-- Email: *(Add your Email here)*
+- LinkedIn: *(https://www.linkedin.com/in/ziyad-amara-bb846b246/)*
+- Email: *(ziyadamara@gmail.com)*
 
 ---
 
